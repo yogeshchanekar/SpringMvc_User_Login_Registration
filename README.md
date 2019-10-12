@@ -36,7 +36,7 @@ CREATE TABLE `myusers`.`users` (
 INSERT INTO table_name VALUES ('Ramesh',1234,'ramaesh','B','RB@gmail.com','Mumbai',902810101);
 ==========================================================================================================
 
-Note:- if you get any error regarding Maven dependancy tomcat plguin then add tomcat plugin dependancy in pom.xml file and also check By 
+Note:- if you get any error regarding Maven dependancy tomcat plugin then add tomcat plugin dependancy in pom.xml file and also check By 
 Right click on project-properties-Deployment_Assembly-Add-Java build path entries-select MavenDependancies.
 ===========================================================================================================
 
