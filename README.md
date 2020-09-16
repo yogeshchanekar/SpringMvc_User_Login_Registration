@@ -33,6 +33,7 @@ CREATE TABLE `myusers`.`users` (
   
   
   
+  
 INSERT INTO table_name VALUES ('Ramesh',1234,'ramaesh','B','RB@gmail.com','Mumbai',902810101);
 ==========================================================================================================
 
