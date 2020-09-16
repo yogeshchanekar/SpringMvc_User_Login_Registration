@@ -31,9 +31,6 @@ CREATE TABLE `myusers`.`users` (
   `phone` INT NULL,
   PRIMARY KEY (`username`));
   
-  
-  
-  
 INSERT INTO table_name VALUES ('Ramesh',1234,'ramaesh','B','RB@gmail.com','Mumbai',902810101);
 ==========================================================================================================
 
